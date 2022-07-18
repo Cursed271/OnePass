@@ -16,7 +16,7 @@ A Encrypted Password Manager written in Python that securely stores all your pas
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/CursedCancer/OnePass.git
 ```
 
 Go to the project directory
@@ -40,9 +40,9 @@ Start OnePass
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/CursedCancer/OnePass/blob/main/assets/Main%20Menu.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/CursedCancer/OnePass/blob/main/assets/Display%20Passwords.png)
 ## Future Scope
 
 - Store Bank Accounts, Payment Cards, WiFi Passwords, and Secure Notes
