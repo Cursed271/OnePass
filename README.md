@@ -1,6 +1,6 @@
 # OnePass
 
-A Encrypted Password Manager written in Python that securely stores all your passwords only on your computer. 
+An Encrypted Password Manager written in Python that securely stores all your passwords only on your computer. 
 
 ## Features
 
